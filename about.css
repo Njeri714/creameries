@@ -1,0 +1,14 @@
+span{
+    color: springgreen;
+}
+
+.main  {
+    display:flex;
+   justify-content: space-between;
+    text-transform: uppercase;
+   
+}
+
+#team{
+    display: flex;
+}
