@@ -12,3 +12,20 @@ span{
 #team{
     display: flex;
 }
+
+#pic4{
+    float: right;
+}
+
+strong{
+font-style: italic;
+}
+
+.motto{
+background-color: blanchedalmond;
+}
+
+.contacts{
+padding:20px;
+color:green;
+}
