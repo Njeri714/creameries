@@ -1,0 +1,82 @@
+*{
+    background-color: honeydew;
+  }
+    
+#quote{
+    color:salmon;
+  }
+    
+.main  {
+      display:flex;
+      justify-content: space-between;
+      text-transform: uppercase;
+     
+  }
+
+
+
+.image2{
+    height: 600px;
+    width: 700px;
+}
+
+.image1{
+    height: 600px;
+    width: 700px;
+  }
+
+.image3{
+    height: 600px;
+    width: 700px;
+  }
+
+.image4{
+    height:600px;
+    width: 700px;
+  }
+  *{
+    background-color: honeydew;
+  }
+    
+#quote{
+    color:salmon;
+  }
+    
+.main  {
+      display:flex;
+      justify-content: space-between;
+      text-transform: uppercase;
+     
+  }
+
+
+
+.image2{
+    height: 600px;
+    width: 700px;
+}
+
+.image1{
+    height: 600px;
+    width: 700px;
+  }
+
+.image3{
+    height: 600px;
+    width: 700px;
+  }
+
+footer{
+    margin-top: 130px;
+    background-color:black;
+    
+  }
+
+.contacts{
+    padding:20px;
+    color:white;
+  }
+  
+.cat{
+    position: fixed;
+  }
